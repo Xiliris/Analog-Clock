@@ -1,4 +1,4 @@
-# clock
+# Analog Clock
 ### Basic Aplication
 ### PC Version
 ### Shows real time
